@@ -1,7 +1,7 @@
 #baseURL = 'https://example.org/'
 #languageCode = 'en-us'
 #title = 'My New Hugo Site'
-baseurl = "http://www.example.com"
+baseurl = "http://sagar.moe"
 title = "Mélange"
 theme = "holy"
 languagecode = "en"
@@ -15,23 +15,23 @@ paginate = 20
 style = "github-dark"
 
 [params]
-  author = "Sagar Mohan"
-  info = "Security Researcher"
-  description = "My personal website"
-  keywords = "blog,developer,personal,security"
-  avatarurl = "images/profile_pic.jpg"
-  #gravatar = "john.doe@example.com"
+  # author = "Sagar Mohan"
+  # info = "Security Researcher"
+  # description = "My personal website"
+  # keywords = "blog,developer,personal,security"
+  # avatarurl = "images/profile_pic.jpg"
+  # #gravatar = "john.doe@example.com"
 
-  faviconSVG = "/img/favicon.svg"
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
+  # faviconSVG = "/img/favicon.svg"
+  # favicon_32 = "/img/favicon-32x32.png"
+  # favicon_16 = "/img/favicon-16x16.png"
 
-  #since = 2022
+  # #since = 2022
 
-  enableTwemoji = true
+  # enableTwemoji = true
 
-  colorScheme = "auto"
-  hidecolorschemetoggle = false
+  # colorScheme = "auto"
+  # hidecolorschemetoggle = false
 
   # customCSS = ["css/custom.css"]
   # customSCSS = ["scss/custom.scss"]
