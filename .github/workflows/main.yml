@@ -1,0 +1,19 @@
+name: Blog Umami Analytics
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    env:
+      UMAMI_WEBSITE_ID: ${{ secrets.UMAMI_WEBSITE_ID }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
+      # Additional steps for your build process
