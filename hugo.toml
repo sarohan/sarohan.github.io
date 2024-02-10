@@ -2,7 +2,7 @@
 #languageCode = 'en-us'
 #title = 'My New Hugo Site'
 baseurl = "http://www.example.com"
-title = "Sagar Mohan"
+title = "Mélange"
 theme = "holy"
 languagecode = "en"
 defaultcontentlanguage = "en"
