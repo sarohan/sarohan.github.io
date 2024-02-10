@@ -1,0 +1,84 @@
+#baseURL = 'https://example.org/'
+#languageCode = 'en-us'
+#title = 'My New Hugo Site'
+baseurl = "http://www.example.com"
+title = "Sagar Mohan"
+theme = "holy"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+#disqusShortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Sagar Mohan"
+  info = "Security Researcher"
+  description = "My personal website"
+  keywords = "blog,developer,personal,security"
+  avatarurl = "images/profile_pic.jpg"
+  #gravatar = "john.doe@example.com"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  #since = 2022
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+# [[params.social]]
+#   name = "Github"
+#   icon = "fa fa-github fa-2x"
+#   weight = 1
+#   url = "https://github.com/sarohan/"
+# [[params.social]]
+#   name = "Gitlab"
+#   icon = "fa fa-gitlab fa-2x"
+#   weight = 2
+#   url = "https://gitlab.com/sarohan/"
+# [[params.social]]
+#   name = "Twitter"
+#   icon = "fa fa-twitter fa-2x"
+#   weight = 3
+#   url = "https://twitter.com/sagarmohan_/"
+# [[params.social]]
+# name = "LinkedIn"
+# icon = "fa fa-2x fa-linkedin"
+# weight = 4
+# url = "https://www.linkedin.com/in/sagarmhn/"
+
+# [[params.social]]
+# name = "RSS"
+# icon = "fa fa-2x fa-rss"
+# weight = 6
+# url = "https://sagarmohan.net/index.xml"
+# rel = "alternate"
+# type = "application/rss+xml"
+
+# Menu links
+# [[menu.main]]
+#   name = "Blog"
+#   weight = 1
+#   url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "about/"
