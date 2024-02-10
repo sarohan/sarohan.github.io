@@ -76,5 +76,5 @@ enableRobotsTXT = true
 
   [Params.umami]
   enabled = true
-  websiteId = "13a6d427-1346-44b2-be1f-37dd3b889672"
+  websiteId = "$UMAMI_WEBSITE_ID"
   jsLocation = "https://analytics.my-hugo-blog.tld/umami.js"
