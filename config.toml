@@ -74,7 +74,7 @@ enableRobotsTXT = true
     name = "Sagar Mohan" # Your name as shown in the RSS feed metadata
     # email = "me@example.com" # Added to the footer so readers can reply to posts
 
-  [Params.umami]
-  enabled = true
-  websiteId = "${UMAMI_WEBSITE_ID}"
-  jsLocation = "https://analytics.my-hugo-blog.tld/umami.js"
+  # [Params.umami]
+  # enabled = true
+  # websiteId = "${UMAMI_WEBSITE_ID}"
+  # jsLocation = "https://analytics.my-hugo-blog.tld/umami.js"
