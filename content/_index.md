@@ -8,7 +8,8 @@ weight: 1
 
 Hey, my name is Sagar Mohan. Like the title of the blog, the posts in this blog will be a mélange of different topics ranging from security, privacy to philosophy and physchology and whatever tickles my fancy at the time of writing.
 
-> I can compel no man to agree with my opinions, but at least I can compel him to have an opinion. &nbsp;
+> I can compel no man to agree with my opinions, but at least I can compel him to have an opinion.
+> 
 > -- [Søren Kierkegaard](https://plato.stanford.edu/entries/kierkegaard/) in [The Concept of Anxiety](https://www.goodreads.com/book/show/17987667-the-concept-of-anxiety)
 
 # Education
@@ -16,7 +17,7 @@ Hey, my name is Sagar Mohan. Like the title of the blog, the posts in this blog 
     - **Masters in Computer Science**, August 2022 - June 2024
     - **Masters Thesis**: Hardware-assisted Efficient Shadow Stack on Embedded Systems
 - Nitte Meenakshi Institute of Technology, Bengaluru, India
-    - Bachelor of Technology in Information Science and Engineering, August 2018 - July 2022
+    - **B.E in Information Science and Engineering**, August 2018 - July 2022
     - **Bachelors Thesis**: Anonymized Network Monitoring for Intrusion Detection Systems
 
 # Publications
