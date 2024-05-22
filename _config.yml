@@ -111,7 +111,10 @@ theme_config:
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/sarohan/sarohan.github.io
+  # example, https://github.com/hexojs/hexojs.github.io
+  branch: gh-pages
 
 umami_analytics:
   enabled: false
