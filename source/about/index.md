@@ -3,6 +3,6 @@ title: about
 date: 2024-05-10 15:37:44
 ---
 
-> I can compel no man to agree with my opinions, but at least I can compel him to have an opinion.
+> I’m filled with a desire for clarity and meaning within a world and condition that offers neither.
 > 
-> -- [Søren Kierkegaard](https://plato.stanford.edu/entries/kierkegaard/) in [The Concept of Anxiety](https://www.goodreads.com/book/show/17987667-the-concept-of-anxiety)
+> -- [Albert Camus](https://plato.stanford.edu/entries/camus/), [The Myth of Sisyphus](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus)
