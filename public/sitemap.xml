@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://example.com/</loc>
+        <loc>https://sagar.moe/</loc>
     </url>
     <url>
-        <loc>https://example.com/about/</loc>
+        <loc>https://sagar.moe/about/</loc>
     </url>
     <url>
-        <loc>https://example.com/categories/</loc>
+        <loc>https://sagar.moe/categories/</loc>
     </url>
     <url>
-        <loc>https://example.com/categories/posts/</loc>
+        <loc>https://sagar.moe/categories/posts/</loc>
     </url>
     <url>
-        <loc>https://example.com/lists/</loc>
+        <loc>https://sagar.moe/lists/</loc>
     </url>
     <url>
-        <loc>https://example.com/posts/</loc>
+        <loc>https://sagar.moe/posts/</loc>
     </url>
     <url>
-        <loc>https://example.com/posts/kagi/</loc>
+        <loc>https://sagar.moe/posts/kagi/</loc>
         <lastmod>2024-03-30</lastmod>
     </url>
     <url>
-        <loc>https://example.com/publications/</loc>
+        <loc>https://sagar.moe/publications/</loc>
     </url>
     <url>
-        <loc>https://example.com/tags/</loc>
+        <loc>https://sagar.moe/tags/</loc>
     </url>
     <url>
-        <loc>https://example.com/tags/kagi/</loc>
+        <loc>https://sagar.moe/tags/kagi/</loc>
     </url>
     <url>
-        <loc>https://example.com/tags/privacy/</loc>
+        <loc>https://sagar.moe/tags/privacy/</loc>
     </url>
     <url>
-        <loc>https://example.com/tags/search/</loc>
+        <loc>https://sagar.moe/tags/search/</loc>
     </url>
 </urlset>
