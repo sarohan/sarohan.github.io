@@ -1,14 +1,14 @@
 +++
 title = "About me"
-description = "About page of ..."
+description = "About page of Sagar Mohan"
 template = "prose.html"
 insert_anchor_links = "none"
 
 [extra]
 lang = 'en'
 
-title = "Posts"
-subtitle = "Blog on things. Possibly random."
+title = "About Me"
+# subtitle = ""
 
 math = false
 mermaid = false
@@ -17,4 +17,4 @@ comment = false
 reaction = false
 +++
 
-Hi, My name is ....
+Hi, My name is Sagar 

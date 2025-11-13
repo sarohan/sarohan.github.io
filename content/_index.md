@@ -31,6 +31,6 @@ date_format = "%b %-d, %Y"
 > 
 > -- [Albert Camus](https://plato.stanford.edu/entries/camus/), [The Myth of Sisyphus](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus)
 
-I want security of systems to be abstracted away, so people don’t have to worry about it. Lately, I have been working on understanding GPU security, with a focus on confidential cloud computing. Previously, I have worked on a microcontroller security, chiefly relating to aspects of control-flow integrity. In a more general sense, I am fascinated about the different aspects of how the security mechanisms of systems are designed. If it ain’t broke, break it.
+Security through abstraction, but not too much, just the right amount. Lately, I've been exploring the mystical world of NPUs on various production devices. Previously, I have worked on a microcontroller security, chiefly relating to aspects of control-flow integrity. In a more general sense, I am fascinated about the different aspects of how the security mechanisms of systems are designed. If it ain’t broke, break it.
 
-Currently, I am a Cybersecurity PhD student at Northeastern University in the Cyberspace Security and Forensics Lab. I am fortunate to be advised by Ziming Zhao.
+Currently, I am a Cybersecurity PhD student at Northeastern University, Boston, in the Cyberspace Security and Forensics (Cacti) Lab. I am fortunate to be advised by [Ziming Zhao](https://zzm7000.github.io).
