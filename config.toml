@@ -64,3 +64,8 @@ not_found_recover_text = "« back to home »"
 reaction = false # Whether to enable anonymous emoji reactions (Note: You need to set up a working api endpoint to enable this feature)
 # reaction_align = "right" # "left" | "center" | "right"
 # reaction_endpoint = "https://example.com/api/reaction"
+
+[extra.umami]
+enabled = true
+script_url = "https://cloud.umami.is/script.js"
+website_id = "13a6d427-1346-44b2-be1f-37dd3b889672"

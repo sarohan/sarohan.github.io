@@ -16,6 +16,10 @@
   <link rel="stylesheet" href="{{ get_url(path='main.css') }}">
   {% block head %}{% endblock head %}
   {% include "_head_extend.html" %}
+  {% if config.extra.umami and config.extra.umami.enabled %}
+    <script defer src="{{ config.extra.umami.script_url }}"
+          data-website-id="{{ config.extra.umami.website_id }}"></script>
+  {% endif %}
 </head>
 
 <body class="{% block page %}{% endblock page%}{% if config.extra.force_theme == "dark" %} dark{% endif %}">
