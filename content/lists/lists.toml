@@ -1,0 +1,6 @@
+[[collection]]
+type = "entry"
+title = "Title" # optional
+subtitle = "Subtitle" # optional
+link = "https://example.com" # optional
+# icon = "https://example.com/image.png" # optional
