@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>My Blog</title>
+	<subtitle>My blog site.</subtitle>
+	<link rel="self" type="application/atom+xml" href="https://sagar.systems/posts/feed.xml"/>
+  <link rel="alternate" type="text/html" href="https://sagar.systems/posts/"/>
+  
+	<updated>2024-03-30T00:00:00+00:00</updated>
+	
+	<id>https://sagar.systems/posts/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Kagi: The New Kid on the Block?</title>
+		<published>2024-03-30T00:00:00+00:00</published>
+		<updated>2024-03-30T00:00:00+00:00</updated>
+		<link rel="alternate" type="text/html" href="https://sagar.systems/posts/kagi/"/>
+		<id>https://sagar.systems/posts/kagi/</id>
+    
+		<content type="html" xml:base="https://sagar.systems/posts/kagi/">&lt;h1 id=&quot;kagi-the-new-kid-on-the-block&quot;&gt;Kagi: The New Kid on the Block&lt;a class=&quot;zola-anchor&quot; href=&quot;#kagi-the-new-kid-on-the-block&quot; aria-label=&quot;Anchor link for: kagi-the-new-kid-on-the-block&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h1&gt;
+&lt;p&gt;I recently switched to using Kagi as my main search engine. As of when this blog post is written, their charge for individual accounts is $10 per month. Considering how we&#x27;ve been spoilt by the likes of Google and DuckDuckGo: is paying so much for search actually worth it? I&#x27;ve not made up my mind about this; however, I do have to say that Kagi is slowly growing on me. In this post, I will list the stuff about Kagi I&#x27;ve observed over the course of using it.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;search-results&quot;&gt;Search Results&lt;a class=&quot;zola-anchor&quot; href=&quot;#search-results&quot; aria-label=&quot;Anchor link for: search-results&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;Kagi has been quite good at giving me the results I want. In fact, it gave me quite interesting links that Google and DuckDuckGo did not give me. For example, I was searching for the background behind &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Andy_and_Bill%27s_law&quot;&gt;&quot;What Andy Giveth, Bill Taketh Away&quot;&lt;&#x2F;a&gt; and Kagi gave me the wiki link first, but within the relevant links, it put &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Wirth%27s_law&quot;&gt;Wirth&#x27;s Law&lt;&#x2F;a&gt; right there where I could see it. Other search engines also included it but not at the same rank. This is of course just one example, but there have been multiple instances where Kagi has ranked relevent pages far better than others.
+&lt;img src=&quot;&#x2F;static&#x2F;img&#x2F;kagi&#x2F;kagi-search-rank.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;search-lens&quot;&gt;Search Lens&lt;a class=&quot;zola-anchor&quot; href=&quot;#search-lens&quot; aria-label=&quot;Anchor link for: search-lens&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;Now this is an interesting feature I have not observed on other services before. Kagi give you the option of searching for something under a specific Lens. For example, I can search for a topic, say &quot;How do Prions start folding incorrectly&quot; and make it so that it gives me results from academic sources. Currently, it gives the options to use Fediverse Forums, News 360, Usenet&#x2F;Archive, Kagi Documentation, Academic, Forums, Programming, PDFs by default. The best part is: &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;help.kagi.com&#x2F;kagi&#x2F;features&#x2F;lenses.html&quot;&gt;You can create your own!&lt;&#x2F;a&gt;
+&lt;img src=&quot;&#x2F;static&#x2F;img&#x2F;kagi&#x2F;kagi-lens.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;utility-features&quot;&gt;Utility Features&lt;a class=&quot;zola-anchor&quot; href=&quot;#utility-features&quot; aria-label=&quot;Anchor link for: utility-features&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;Now since Google, and to some extent DuckDuckGo, offer features which directly answer your questions (like currency converion, time at place, etc), does Kagi do the same? I mean, kinda? It does somethings since Kagi &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;blog.kagi.com&#x2F;kagi-wolfram&quot;&gt;recently integrated&lt;&#x2F;a&gt; WolframAlpha into their platform so we get complex math features like so:
+&lt;img src=&quot;&#x2F;static&#x2F;img&#x2F;kagi&#x2F;kagi-math.png&quot; alt=&quot;alt text&quot; &#x2F;&gt;
+Wolfram Alpha covers most similar stuff like Currency Conversion as well, but what about temperature?&lt;img src=&quot;&#x2F;static&#x2F;img&#x2F;kagi&#x2F;image.png&quot; alt=&quot;&quot; &#x2F;&gt;
+Nope, a pretty basic feature which is still not present. Probably some other features like this are lacking, you can find out based on features you use on other search engines.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;misc-features&quot;&gt;Misc Features&lt;a class=&quot;zola-anchor&quot; href=&quot;#misc-features&quot; aria-label=&quot;Anchor link for: misc-features&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;Kagi has some security feature which scans each search result. This can be accessed by clicking the shield icon after each search result. Most other services offer similar service so nothing special here. Maybe they offer a bit more in-depth analysis of each site? I don&#x27;t know, I use my own wits to see if a website is worth clicking on. Hey, it&#x27;s worked for me so far.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;things-about-kagi-i-don-t-like&quot;&gt;Things about Kagi I don&#x27;t like&lt;a class=&quot;zola-anchor&quot; href=&quot;#things-about-kagi-i-don-t-like&quot; aria-label=&quot;Anchor link for: things-about-kagi-i-don-t-like&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;Well, the product alone is fine. It has a few rough edges but that&#x27;s a given considering it&#x27;s relatively new. However, the people behind them have done some &quot;interesting&quot; stuff. They raised $670k through multiple small investors and then proceeded to utilize one-thirds of that to giving away free tshirts to their first 20000 customers? I mean, I get they are appreciating their customers but spending so much money so early on for just that? It has raised some eyebrows for sure.&lt;&#x2F;p&gt;
+&lt;p&gt;They have their own &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;browser.kagi.com&#x2F;&quot;&gt;browser&lt;&#x2F;a&gt; in the Apple ecosystem which is pretty buggy. I assume the reasoning behind it is that Safari does not include Kagi as a Search enginer choice (yet) and their &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;kagi-for-safari&#x2F;id1622835804&quot;&gt;extension&lt;&#x2F;a&gt; whichs works around this issue is not really privacy friendly. Building and maintaining a good browser is not easy, and it is not cheap. If Apple decided to include Kagi as a Search Engine choice, maybe Kagi should let go of their own browser and focus on their search engine.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;a class=&quot;zola-anchor&quot; href=&quot;#conclusion&quot; aria-label=&quot;Anchor link for: conclusion&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;Kagi is a good product. However, given the rise of LLMs like ChatGPT, Claude and search focused products like &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;perplexity.ai&quot;&gt;Perplexity.ai&lt;&#x2F;a&gt;, it is only a test of time if Kagi will survive the onslaught of the AI arms race. It is unfortunate timing for Kagi to have set up shop during but I think they are doing the right things so hopefully it all works out for them.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

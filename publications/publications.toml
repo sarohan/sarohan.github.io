@@ -1,0 +1,21 @@
+[[collection]]
+type = "card"
+title = "Watchmen: Utilizing Data Watchpoints for Shadow Stacks in Embedded Systems"
+subtitle = "MS Thesis" # optional
+date = "2024" # optional
+link = "https://cse.buffalo.edu/tech-reports/2024-03.pdf" # optional
+# icon = "https://example.com/image.png" # optional
+content = ""
+tags = ["security", "microcontrollers", "control-flow integrity"] # optional
+featured = false  # optional
+
+[[collection]]
+type = "card"
+title = "Is the Canary Dead? On the Effectiveness of Stack Canaries on Microcontroller Systems"
+subtitle = "Xi Tan, Sagar Mohan, Md Armanuzzaman, Zheyuan Ma, Gaoxiang Liu, Alex Eastman, Hongxin Hu, and Ziming Zhao" # optional
+date = "2024" # optional
+link = "https://doi.org/10.1145/3605098.3635925" # optional
+# icon = "https://example.com/image.png" # optional
+content = "SAC '24: Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing Pages 1350 - 1357"
+tags = ["security", "microcontrollers", "stack canaries"] # optional
+featured = false  # optional
