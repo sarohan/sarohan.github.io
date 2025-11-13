@@ -5,7 +5,7 @@
 #
 #=========================================================================================
 
-base_url = "https://sagar.moe"
+base_url = "https://sagar.systems"
 title = "Sagar Mohan"
 description = "Blog on things. Possibly random."
 default_language = "en"
