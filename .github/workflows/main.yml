@@ -1,26 +1,25 @@
-name: Deploy Zola
+name: Zola on GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main   # or your default branch
+
+permissions:
+  contents: write   # needed so the action can push to gh-pages
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
-      - name: Install Zola
-        uses: getzola/zola-deploy-action@v0.17.0
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
 
       - name: Build and deploy
-        run: |
-          zola build
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          cd public
-          git init
-          git checkout -B gh-pages
-          git add .
-          git commit -m "Deploy site"
-          git push -f https://github.com/${GITHUB_REPOSITORY}.git gh-pages
+        uses: shalzz/zola-deploy-action@v0.21.0
+        env:
+          # Branch that will contain the built site
+          PAGES_BRANCH: gh-pages
+          # Use the built-in GitHub token (no PAT needed if same repo)
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
